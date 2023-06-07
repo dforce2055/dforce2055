@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Teacher
 -------------------------
 
-I have a passion for free software, a passion that has led me to enjoy my performance as an application design and development analyst. I like to solve complex problems in a very simple way, the simpler the solution the more efficient. I have a lot os fun, because I really enjoy the Front end Software development. I finished my university degree and also taught at the university. I like to teach and transmit my knowledge and experiences.
+I have a passion for free software, a passion that has led me to enjoy my performance as an application design and development analyst. I like to solve complex problems in a very simple way, the simpler the solution the more efficient. I have a lot of fun, because I really enjoy Front end Software development. I finished my university degree and also taught at the university. I like to teach and transmit my knowledge and experiences.
 
 * 🌍  I'm based in Buenos Aires
 * 🖥️  See my portfolio at [MyPortfolio](http://portfolio-dforce2055.web.app/)
