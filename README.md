@@ -10,7 +10,7 @@ I have a passion for free software, a passion that has led me to enjoy my perfor
 * 🌍  I'm based in Buenos Aires
 * 🖥️  See my portfolio at [MyPortfolio](http://portfolio-dforce2055.web.app/)
 * ✉️  You can contact me at [dperez2055@gmail.com](mailto:dperez2055@gmail.com)
-* 🚀  I'm currently working on [NybbleGroup](http://nybblegroup.com)
+* 🚀  I'm currently working on [AccelOne](https://accelone.com/)
 * 🧠  I'm learning NestJS, Deno, Node, Express, Next SSR, GraphQL
 * 🤝  I'm open to collaborating on interesting projects or free software
 
